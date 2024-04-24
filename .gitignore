@@ -1,0 +1,12 @@
+
+.vscode
+/Assets/Editor/Migration/com.ptc.vuforia.engine-10.1.4/
+/Library/PackageCache/
+/Library/Artifacts/
+/Library/ArtifactDB
+/Logs/
+/UserSettings
+
+# Includes "com.ptc.vuforia.engine-10.1.4.tgz" file w/  >250mb
+/Packages/com.ptc.vuforia.engine-10.1.4/
+
