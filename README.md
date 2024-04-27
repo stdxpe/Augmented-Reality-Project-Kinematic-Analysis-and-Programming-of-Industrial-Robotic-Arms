@@ -29,6 +29,11 @@ namespace AR_Vuforia;
 
 
 ## Google ARCore/Vuforia AR
+![Alternate Text](https://github.com/stdxpe/Augmented-Reality-Project-Kinematic-Analysis-and-Programming-of-Industrial-Robotic-Arms/blob/main/4ktest.gif)
+```
+namespace AR_Vuforia;
+    public function getDailyKnowledge():
+```
 ![Alternate Text](https://github.com/stdxpe/Augmented-Reality-Project-Kinematic-Analysis-and-Programming-of-Industrial-Robotic-Arms/blob/main/50fps360low.gif)
 
 ## Unity (using C#)
