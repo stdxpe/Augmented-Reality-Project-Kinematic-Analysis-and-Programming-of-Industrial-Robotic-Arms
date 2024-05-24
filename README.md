@@ -7,6 +7,51 @@
 
 ## Project Structure
 ```
+├── lib                                                                                                                                 
+│   ├── models
+│   │       └── user_model.dart                                                                                                        
+│   │   |   └── post_model.dart                                                                                                             
+│   │   |   └── comment_model.dart
+│   │       └── profile_model.dart                                                                                                        
+│   └── services                 
+│   │       ├── navigation_service.dart
+│   │   |   ├── locator_service.dart 
+│   │   |   ├── auth_service.dart
+│   │   |   ├── log_service.dart
+│   │   |   ├── database_service.dart
+│   │   |   ├── local_storage_service.dart
+│   │   |   ├── abstract_classes 
+│   │           └── i_auth_service, ...                                                                                                         
+│   └── viewmodels                                                                                                                           
+│   │       ├── blocs/cubits*
+│   │   |   |   └── page_bloc.dart
+│   │   |   |   └── page_bloc_state_events.dart                                                                                                        
+│   │   |   ├── home_viewmodel.dart                                                                                                        
+│   │       └── profile_viewmodel.dart                                                                                                        
+│   └── ui                                                                                                                                    
+│   │       ├── pages
+│   │   |   |   └── home_page.dart
+│   │   |   |   └── profile_page.dart
+│   │   |   |   └── message_page.dart                                                                                                         
+│   │   |   └── components.                                                                                                                    
+│   │   |   |   └── appbar_widget.dart
+│   │   |   |   └── navigation_bar_widget.dart                                                                                                        
+│   │   |   |   └── popup_widget.dart                                                                                                        
+│   │           └── listview_builder_widget.dart
+│   └── utilities
+│   │   |   └── constants.dart                                                                                                        
+│   │   |   └── themes.dart
+│   └── assets
+│   │   |   └── images/icons/svgs/fonts/...                                                                                                          
+│   ├── app.dart                                                                                                        
+│   └── main.dart                                                                                                        
+├── pubspec.yaml
+├── gitignore
+├── dockerfile
+├── dockercomposefile
+```
+## Project Structure
+```
 ├── lib
 |   ├── posts
 │   │   ├── bloc
