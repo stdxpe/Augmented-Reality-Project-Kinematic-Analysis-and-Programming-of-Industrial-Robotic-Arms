@@ -3,33 +3,50 @@
 
 A simulation tool for industrial environments that allows users to test, program and control robotic arms virtually, offering an innovative approach by integrating AR with industrial robotic systems, as an alternative to conventional ‘teach pendant’ controllers
 
-![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/cover_ar.jpg)
+<p align="top">
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/cover_ar.jpg" width="64.5%">
+&nbsp;
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/intro.gif" width="20%">
+</p>
 
 - SolidWorks & SketchUp used for editing and converting real-scale complex 3D models into optimized, lightweight formats
 - Google ARCore & Vuforia used for marker detection, image recognition, surface tracking, and environment mapping
 - Unity engine used for 3D rendering, image processing configurations, and physics simulations (with .NET Core and C#)
 - Flutter & Dart used for the main application, and Unity project embedded into Flutter app via third-party dependencies
 
+<p align="top">
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab1.gif" width="20%">
+&nbsp;
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif" width="63.2%">
+</p>
+
+<p align="top">
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/intro.gif">
+&nbsp; &nbsp;
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab1.gif">
+</p>
+
+<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif" width="60%">
+
 ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/intro.gif)
 ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab1.gif)
+<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif" width="70%">
 
 - Simulated the instructions and algorithms that govern the movements and actions of the 6-axis robotic arms, in various scenarios
 
-![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/moves1.gif)
-![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/moves2.gif)
+<p align="top">
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/moves1.gif" width="35%">
+&nbsp; &nbsp;
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/moves2.gif" width="35%">
+</p>
+
 - Integrated real-time joint and axis manipulation to accurately position the arm in the AR interface, path creation for the end-effector within physical boundaries, 3D workspace range visualization, movement animations between specified points, and generation of simplified inverse/forward kinematic analysis outputs for future use cases
 
-![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif)
 
+<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.jpg" width="85%">
+<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.gif" width="85%">
 
-![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.jpg)
-
-<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.jpg" width="75%">
-<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.gif" width="75%">
-
-// ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.gif =50%x)
 -
-![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif)
 
 Fully functional e-commerce application for portfolio, using **Flutter**, **Riverpod**, **Firebase**, **Hive** and **Stripe**.
 
