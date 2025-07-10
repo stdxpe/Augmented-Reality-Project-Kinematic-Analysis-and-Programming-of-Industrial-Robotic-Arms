@@ -22,6 +22,15 @@ A simulation tool for industrial environments that allows users to test, program
 ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif)
 
 
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.jpg)
+
+<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.jpg" width="75%">
+<img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.gif" width="75%">
+
+// ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.gif =50%x)
+-
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif)
+
 Fully functional e-commerce application for portfolio, using **Flutter**, **Riverpod**, **Firebase**, **Hive** and **Stripe**.
 
 - Created a simulation tool for industrial environments that allows users to test, program and control robotic arms virtually, offering an innovative approach by integrating AR with industrial robotic systems, as an alternative to conventional ‘teach pendant’ controllers
