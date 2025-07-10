@@ -1,9 +1,27 @@
-## &nbsp;Kinematic Analysis and Programming of Industrial Robotic Arms w/ Augmented Reality 
+# Augmented Reality Project
+### Kinematic Analysis & Programming of Industrial Robotic Arms
+
+A simulation tool for industrial environments that allows users to test, program and control robotic arms virtually, offering an innovative approach by integrating AR with industrial robotic systems, as an alternative to conventional ‘teach pendant’ controllers
+
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/cover_ar.jpg)
 
 
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+- SolidWorks & SketchUp used for editing and converting real-scale complex 3D models into optimized, lightweight formats
+- Google ARCore & Vuforia used for marker detection, image recognition, surface tracking, and environment mapping
+- Unity engine used for 3D rendering, image processing configurations, and physics simulations (with .NET Core and C#)
+- Flutter & Dart used for the main application, and Unity project embedded into Flutter app via third-party dependencies
 
-![](https://github.com/stdxpe/Augmented-Reality-Project-Kinematic-Analysis-and-Programming-of-Industrial-Robotic-Arms/blob/main/50fps360high.gif)
+Fully functional e-commerce application for portfolio, using **Flutter**, **Riverpod**, **Firebase**, **Hive** and **Stripe**.
+
+- Created a simulation tool for industrial environments that allows users to test, program and control robotic arms virtually, offering an innovative approach by integrating AR with industrial robotic systems, as an alternative to conventional ‘teach pendant’ controllers
+- Simulated the instructions and algorithms that govern the movements and actions of the 6-axis robotic arms, in various scenarios
+- Integrated real-time joint and axis manipulation to accurately position the arm in the AR interface, path creation for the end-effector within physical boundaries, 3D workspace range visualization, movement animations between specified points, and generation of simplified inverse/forward kinematic analysis outputs for future use cases
+- SolidWorks & SketchUp used for editing and converting real-scale complex 3D models into optimized, lightweight formats
+- Google ARCore & Vuforia used for marker detection, image recognition, surface tracking, and environment mapping
+- Unity engine used for 3D rendering, image processing configurations, and physics simulations (with .NET Core and C#)
+- Flutter & Dart used for the main application, and Unity project embedded into Flutter app via third-party dependencies
+
+  
 
 ## Project Structure
 ```bash
