@@ -5,11 +5,22 @@ A simulation tool for industrial environments that allows users to test, program
 
 ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/cover_ar.jpg)
 
-
 - SolidWorks & SketchUp used for editing and converting real-scale complex 3D models into optimized, lightweight formats
 - Google ARCore & Vuforia used for marker detection, image recognition, surface tracking, and environment mapping
 - Unity engine used for 3D rendering, image processing configurations, and physics simulations (with .NET Core and C#)
 - Flutter & Dart used for the main application, and Unity project embedded into Flutter app via third-party dependencies
+
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/intro.gif)
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab1.gif)
+
+- Simulated the instructions and algorithms that govern the movements and actions of the 6-axis robotic arms, in various scenarios
+
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/moves1.gif)
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/moves2.gif)
+- Integrated real-time joint and axis manipulation to accurately position the arm in the AR interface, path creation for the end-effector within physical boundaries, 3D workspace range visualization, movement animations between specified points, and generation of simplified inverse/forward kinematic analysis outputs for future use cases
+
+![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/grab2.gif)
+
 
 Fully functional e-commerce application for portfolio, using **Flutter**, **Riverpod**, **Firebase**, **Hive** and **Stripe**.
 
