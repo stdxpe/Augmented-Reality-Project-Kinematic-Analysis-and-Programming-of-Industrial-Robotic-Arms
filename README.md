@@ -5,12 +5,17 @@ A simulation tool for industrial environments that allows users to test, program
 
 ![](https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/cover_ar.jpg)
 
-- **SolidWorks** & **SketchUp** used for editing and converting real-scale complex 3D models into optimized, lightweight formats
-- **Google ARCore** & **Vuforia** used for marker detection, image recognition, surface tracking, and environment mapping
 - **Unity** engine used for 3D rendering, image processing configurations, and physics simulations (with **.NET Core** and **C#**)
 - **Flutter** & **Dart** used for the main application, and Unity project embedded into Flutter app via third-party dependencies
 
+<p align="center">
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/mash.jpg" width="40%">
+&nbsp; &nbsp;
+  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/details.jpg" width="40%">
+</p>
 
+- **SolidWorks** & **SketchUp** used for editing and converting real-scale complex 3D models into optimized, lightweight formats
+- **Google ARCore** & **Vuforia** used for marker detection, image recognition, surface tracking, and environment mapping
 
 <p align="center">
   <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/intro.gif" width="30%">
@@ -47,14 +52,7 @@ A simulation tool for industrial environments that allows users to test, program
       <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/range.gif"  width="85%">
 </p>
 
-
-
-
-<p align="center">
-  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/mash.jpg" width="40%">
-&nbsp; &nbsp;
-  <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/details.jpg" width="40%">
-</p>
+- Optimized system performance by using marker-based AR detection instead of full environment scanning to improve speed and compatibility with low-end devices
 
 <p align="center">
       <img src="https://github.com/stdxpe/augmented_reality_project_kinematic_analysis_and_programming_of_industrial_robotic_arms/blob/main/readme_docs/variety.png"  width="82%">
